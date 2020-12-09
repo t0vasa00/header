@@ -1,0 +1,30 @@
+.outline {
+    height: 90px;
+    background-color: #9a7237;
+    border: 2px solid rgb(255, 255, 255);
+    border-style: dashed;
+    width: 96%;
+    position: absolute;
+    top: 23px;
+    left: 25px;
+    
+}
+
+.fa-globe {
+    position: absolute;
+    top: 58px;
+    left: 1126px;
+    font-size: 26px;
+}
+
+.loginbutton {
+    background-color: #684d25;
+    top: 51px;
+    left: 1185px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    position: absolute;
+
+}
